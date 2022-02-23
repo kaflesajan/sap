@@ -1,0 +1,9 @@
+@media (max-width:480px) {
+    .flex{ flex-direction: column; text-align: center;}
+    .top_nav{ text-align: center;}
+    .search_box input{ width: 77%;}
+    .cart{ display: none;}
+    .main ul{ display: none;}
+    .main ul li { display: block;}
+    .main span { display: block; padding-left: 20px;}
+}
